@@ -4,7 +4,9 @@
         "electron": "^2.0.0-beta.8"
     },
     "scripts": {
-        "start": "electron ."
+        "start": "electron .",
+        "pack": "electron pack",
+        "build": "electron-cli pack"
     },
     "main": "main.js",
     "version": "0.0.0",
