@@ -50,6 +50,7 @@ typings/
 
 # Output of 'npm pack'
 *.tgz
+*ginbox-darwin-x64
 
 # Yarn Integrity file
 .yarn-integrity
